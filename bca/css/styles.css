@@ -1,0 +1,191 @@
+body {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  }
+
+  h1, h2, h4, h6 {
+    font-family: "Roboto";
+  }
+
+.section1 {
+  padding-top: 30px;
+}
+
+.div2 {
+  margin: 0;
+  padding-bottom: 50px;
+}
+
+.div1 h1 {
+  font-size: 50px;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.div1 h4 {
+  font-size: 20px;
+  margin: 0;
+  padding-bottom: 50px;
+}
+
+.div2 img {
+  height: 300px;
+  width: 300px;
+}
+
+.div2 h6 {
+  margin: 0;
+  padding-top: 10px;
+}
+
+.div3 {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.div3 {
+  margin: 0;
+  text-align: left;
+}
+
+.div3 h2 {
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+
+.div3 p {
+  font-size: 18px;
+}
+
+.div3 ul {
+  font-size: 18px;
+}
+
+section {
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+
+.section2 {
+  background-color: #000506;
+  color: #fff;
+  font-family: "Roboto";
+}
+
+.section2 h2 {
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+
+.table1 {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding: 20px 10px;
+}
+
+.div5 img {
+  width: 250px;
+  height: 100px;
+}
+
+.table2 {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.section3 h2 {
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+
+.table2 h4 {
+  text-align: left;
+  padding-left: 50px;
+}
+
+.table2 ul {
+  text-align: left;
+  padding-left: 65px;
+}
+
+.section4 {
+  background-color: #000506;
+  color: #fff;
+}
+
+.section4 h2 {
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+
+.div6 {
+  padding-bottom: 50px;
+}
+
+.section5{
+  padding-bottom: 20px;
+}
+
+/* Question10:- Change the background color of the frames. */
+
+.left-html {
+  background-color: #c05555;
+}
+
+.left-page {
+  padding: 30px 0 0 30px;;
+  text-align: left;
+}
+
+.left-page h2 {
+  padding-bottom: 30px;
+}
+
+ol li {
+  padding: 10px 0;
+}
+
+.right-html {
+  background-color: #59886b;
+
+}
+
+/* Answer10 ends here */
+
+.right-page {
+  padding-top: 30px;
+}
+
+a:link {
+  color: #ffc85c;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #8db596;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #556052;
+  background-color: white;
+  text-decoration: underline;
+}
